@@ -61,7 +61,7 @@
     ![s](/Images/TLPing.png)
 ## Captura de paquetes 
 - WireShark 
-    ![s](/Images/TLPing.png)
+    ![s](/Images/WireShark.jpg)
 ## Glosario 📖   
 - Router
     - Dispositivo que permite interconectar computadoras que funcionan dentro de una misma red. Este ademas, se encarga de asignar las direcciones IP
