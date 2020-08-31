@@ -60,6 +60,7 @@
     - Hacemos ping al resto de maquinas
     ![s](/Images/TLPing.png)
 ## Captura de paquetes con WireShark 
+    - WireShark 
     ![s](/Images/WireShark.jpg)
 ## Glosario 📖   
 - Router
