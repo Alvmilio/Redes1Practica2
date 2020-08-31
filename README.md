@@ -59,9 +59,9 @@
 - Ingresamos a la maquina virtual de VMware
     - Hacemos ping al resto de maquinas
     ![s](/Images/TLPing.png)
-## Captura de paquetes con WireShark 
-    - WireShark 
-    ![s](/Images/WireShark.jpg)
+## Captura de paquetes 
+- WireShark 
+    ![s](/Images/TLPing.png)
 ## Glosario 📖   
 - Router
     - Dispositivo que permite interconectar computadoras que funcionan dentro de una misma red. Este ademas, se encarga de asignar las direcciones IP
